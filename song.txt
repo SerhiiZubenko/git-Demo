@@ -2,4 +2,8 @@
 апраравпрварапрпарв
 dhjghfjghh
 fhjfjghfjhgf
+<<<<<<< HEAD
 Ащкв Увпу 
+=======
+Ford Edge sent
+>>>>>>> 552e61ded93b031164d6463fd4d9019e97cd9adb
